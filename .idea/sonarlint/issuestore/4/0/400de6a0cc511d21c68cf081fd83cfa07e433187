@@ -1,0 +1,9 @@
+
+r
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(íÍ¿R8á÷à¼•/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïé·›8Ã×å¼•/
+~
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(«®³„ÿÿÿÿÿ8­Ôç¼•/
+y
+java:S4276
+"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ÒØÂ8Ü®Ş¼•/
